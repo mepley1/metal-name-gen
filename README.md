@@ -1,4 +1,4 @@
 # metal-name-gen
-Python cgi death metal band name generator. Assembles a name and chooses from a list of fonts and colors to display it. Semi-responsive.
+Python CGI death metal band name generator. Assembles a name and chooses from a list of fonts and colors to display it.
 
-Demo at https://dev.deathmetal.me/namegen/gen.py
+Demo at https://dev.deathmetal.me/namegen/
